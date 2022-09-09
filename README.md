@@ -1,2 +1,2 @@
-# Lista-2-uso-do-SE
-Segunda lista lógica da programação, usando a primeira vez o SE.
+# List-2-use-if
+Second list programming logic, using "if"
